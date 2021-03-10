@@ -26,3 +26,23 @@ h1 {
 	flex-flow:row wrap;
 	justify-content:flex-end;
 }
+
+/* unvisited link */
+a:link {
+  color:white;
+}
+
+/* visited link */
+a:visited {
+  color:white;
+}
+
+/* mouse over link */
+a:hover {
+  color:#8C52FF;
+}
+
+/* selected link */
+a:active {
+  color:white;
+}
