@@ -2,6 +2,11 @@ body {
 	background-color:#CEB2D6
 }
 
+h1 {
+	color:#8C52FF;
+	text-align:left;
+}
+
 .center {
 	  display: block;
 	  margin-left: auto;
