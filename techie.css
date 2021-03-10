@@ -30,19 +30,23 @@ h1 {
 /* unvisited link */
 a:link {
   color:white;
+  text-decoration: none;
 }
 
 /* visited link */
 a:visited {
   color:white;
+  text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
   color:#8C52FF;
+  text-decoration: none;
 }
 
 /* selected link */
 a:active {
   color:white;
+  text-decoration: none;
 }
