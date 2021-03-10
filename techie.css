@@ -1,5 +1,5 @@
 body {
-	background-color:#CEB2D6
+	background-color:#CEB2D6;
 }
 
 h1 {
@@ -41,7 +41,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color:#8C52FF;
+  color:#CEB2D6;
   text-decoration: none;
 }
 
