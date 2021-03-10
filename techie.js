@@ -6,5 +6,6 @@ function darkMode()
 			
 function lightMode()
 			{
-				document.body.style.backgroundColor = "#CEB2D6";	
+				document.body.style.backgroundColor = "#CEB2D6";
+				document.getElementById("paragraph").style.color = "black";
 			}
