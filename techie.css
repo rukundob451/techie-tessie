@@ -21,7 +21,8 @@ h1 {
 	
 	background:#8C52FF;
 	
-	display:flex;
+	/*display:flex;*/
+	display: inline-block;
 	
 	flex-flow:row wrap;
 	justify-content:flex-end;
