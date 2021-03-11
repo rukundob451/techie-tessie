@@ -18,11 +18,9 @@ h1 {
 .navigation {
 	list-style:none;
 	margin:0;
-	
+	text-align:center;
 	background:#8C52FF;
-	
 	display:flex;
-	
 	flex-flow:row wrap;
 	justify-content:flex-end;
 }
